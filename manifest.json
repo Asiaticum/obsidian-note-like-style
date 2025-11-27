@@ -1,0 +1,10 @@
+{
+    "id": "note-like-style",
+    "name": "Note-like Style",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Applies note.com-like spacing and styling to your notes.",
+    "author": "Obsidian User",
+    "authorUrl": "https://github.com/obsidianmd/obsidian-sample-plugin",
+    "isDesktopOnly": false
+}

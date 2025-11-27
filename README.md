@@ -33,14 +33,3 @@ Obsidianのノートに、note.comのような行間やスタイルを適用す�
 1. 最新のリリースから `main.js`, `manifest.json`, `styles.css` をダウンロードします。
 2. Obsidianの保管庫の `.obsidian/plugins/note-like-style` フォルダにファイルを配置します。
 3. Obsidianの設定 > コミュニティプラグイン からプラグインを有効化します。
-
-## 開発
-
-```bash
-npm install
-npm run dev
-```
-
-## ライセンス
-
-MIT
